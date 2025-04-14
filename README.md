@@ -1,5 +1,7 @@
 # Mcp-server-v2ex
 
+[![smithery badge](https://smithery.ai/badge/@ropon/mcp-server-v2ex)](https://smithery.ai/server/@ropon/mcp-server-v2ex)
+
 ## Description
 This mcp server simply wrap the offical Api 2.0, implement all api actions.
 
@@ -16,6 +18,16 @@ This mcp server simply wrap the offical Api 2.0, implement all api actions.
 - topic comments  获取指定话题下的回复
 
 ## How to use
+
+### Installing via Smithery
+
+To install mcp-server-v2ex for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@ropon/mcp-server-v2ex):
+
+```bash
+npx -y @smithery/cli install @ropon/mcp-server-v2ex --client claude
+```
+
+### Installing Manually
 - 在 https://www.v2ex.com/settings/tokens 获取 token
 - Install the Pakcage via npm
 ```
